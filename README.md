@@ -1,2 +1,5 @@
 # Personality-Development
 A web-based Personality Development platform designed to help users improve communication skills, confidence, leadership abilities, and overall personal development through interactive learning resources.
+Personality Development is a web-based platform designed to help users improve their personal and professional skills. The project focuses on developing confidence, communication skills, leadership abilities, presentation skills, time management, positive thinking, and overall personality. It provides users with structured learning content and practical guidance to support continuous self-improvement.
+
+The main objective of this project is to create an easy-to-use platform where students and job seekers can learn essential soft skills and prepare themselves for academic, professional, and interview environments. The application provides organized resources that encourage users to develop better communication, confidence, decision-making, and interpersonal skills.
